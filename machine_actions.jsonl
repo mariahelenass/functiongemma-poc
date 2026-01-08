@@ -1,0 +1,114 @@
+{"user_content":"quero pagar 10 reais no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":10,\"nome_estabelecimento\":\"Loja Central\",\"imprimir\":true}"}
+{"user_content":"pix de 12 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":12,\"nome_estabelecimento\":\"Loja Central\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 15","tool_name":"pagamento","tool_arguments":"{\"valor\":15,\"nome_estabelecimento\":\"Mercado Popular\",\"imprimir\":true}"}
+{"user_content":"pagar 18 reais via pix","tool_name":"pagamento","tool_arguments":"{\"valor\":18,\"nome_estabelecimento\":\"Mercado Popular\",\"imprimir\":true}"}
+{"user_content":"pix de 20 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":20,\"nome_estabelecimento\":\"Padaria Boa Massa\",\"imprimir\":true}"}
+{"user_content":"quero pagar 22 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":22,\"nome_estabelecimento\":\"Padaria Boa Massa\",\"imprimir\":true}"}
+{"user_content":"faz um pagamento pix de 25","tool_name":"pagamento","tool_arguments":"{\"valor\":25,\"nome_estabelecimento\":\"Lanchonete da Esquina\",\"imprimir\":true}"}
+{"user_content":"pix no valor de 27 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":27,\"nome_estabelecimento\":\"Lanchonete da Esquina\",\"imprimir\":true}"}
+{"user_content":"pagar 30 reais no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":30,\"nome_estabelecimento\":\"Restaurante Caseiro\",\"imprimir\":true}"}
+{"user_content":"pix de 32 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":32,\"nome_estabelecimento\":\"Restaurante Caseiro\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 35","tool_name":"pagamento","tool_arguments":"{\"valor\":35,\"nome_estabelecimento\":\"Café Central\",\"imprimir\":true}"}
+{"user_content":"quero pagar 38 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":38,\"nome_estabelecimento\":\"Café Central\",\"imprimir\":true}"}
+{"user_content":"pix de 40 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":40,\"nome_estabelecimento\":\"Farmácia Vida\",\"imprimir\":true}"}
+{"user_content":"pagar 42 reais via pix","tool_name":"pagamento","tool_arguments":"{\"valor\":42,\"nome_estabelecimento\":\"Farmácia Vida\",\"imprimir\":true}"}
+{"user_content":"pix no valor de 45","tool_name":"pagamento","tool_arguments":"{\"valor\":45,\"nome_estabelecimento\":\"Papelaria Escolar\",\"imprimir\":true}"}
+{"user_content":"quero fazer um pix de 48","tool_name":"pagamento","tool_arguments":"{\"valor\":48,\"nome_estabelecimento\":\"Papelaria Escolar\",\"imprimir\":true}"}
+{"user_content":"pagar 50 reais no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":50,\"nome_estabelecimento\":\"Supermercado Bom Preço\",\"imprimir\":true}"}
+{"user_content":"pix de 55 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":55,\"nome_estabelecimento\":\"Supermercado Bom Preço\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 60","tool_name":"pagamento","tool_arguments":"{\"valor\":60,\"nome_estabelecimento\":\"Açougue Central\",\"imprimir\":true}"}
+{"user_content":"pagar 65 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":65,\"nome_estabelecimento\":\"Açougue Central\",\"imprimir\":true}"}
+{"user_content":"pix no valor de 70","tool_name":"pagamento","tool_arguments":"{\"valor\":70,\"nome_estabelecimento\":\"Loja de Roupas\",\"imprimir\":true}"}
+{"user_content":"quero pagar 75 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":75,\"nome_estabelecimento\":\"Loja de Roupas\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 80","tool_name":"pagamento","tool_arguments":"{\"valor\":80,\"nome_estabelecimento\":\"Pet Shop Amigo\",\"imprimir\":true}"}
+{"user_content":"pix de 85 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":85,\"nome_estabelecimento\":\"Pet Shop Amigo\",\"imprimir\":true}"}
+{"user_content":"pagar 90 reais via pix","tool_name":"pagamento","tool_arguments":"{\"valor\":90,\"nome_estabelecimento\":\"Clínica Popular\",\"imprimir\":true}"}
+{"user_content":"pix no valor de 95","tool_name":"pagamento","tool_arguments":"{\"valor\":95,\"nome_estabelecimento\":\"Clínica Popular\",\"imprimir\":true}"}
+{"user_content":"quero pagar 100 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":100,\"nome_estabelecimento\":\"Eletrônicos Tech\",\"imprimir\":true}"}
+{"user_content":"pix de 110","tool_name":"pagamento","tool_arguments":"{\"valor\":110,\"nome_estabelecimento\":\"Eletrônicos Tech\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 120","tool_name":"pagamento","tool_arguments":"{\"valor\":120,\"nome_estabelecimento\":\"Restaurante Grill\",\"imprimir\":true}"}
+{"user_content":"pagar 130 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":130,\"nome_estabelecimento\":\"Restaurante Grill\",\"imprimir\":true}"}
+{"user_content":"pix no valor de 150","tool_name":"pagamento","tool_arguments":"{\"valor\":150,\"nome_estabelecimento\":\"Hotel Central\",\"imprimir\":true}"}
+{"user_content":"quero pagar 180 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":180,\"nome_estabelecimento\":\"Hotel Central\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 200","tool_name":"pagamento","tool_arguments":"{\"valor\":200,\"nome_estabelecimento\":\"Concessionária Auto\",\"imprimir\":true}"}
+{"user_content":"pix de 250 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":250,\"nome_estabelecimento\":\"Concessionária Auto\",\"imprimir\":true}"}
+{"user_content":"pagar 300 reais via pix","tool_name":"pagamento","tool_arguments":"{\"valor\":300,\"nome_estabelecimento\":\"Loja de Móveis\",\"imprimir\":true}"}
+{"user_content":"pix no valor de 350","tool_name":"pagamento","tool_arguments":"{\"valor\":350,\"nome_estabelecimento\":\"Loja de Móveis\",\"imprimir\":true}"}
+{"user_content":"quero pagar 400 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":400,\"nome_estabelecimento\":\"Academia Fitness\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 450","tool_name":"pagamento","tool_arguments":"{\"valor\":450,\"nome_estabelecimento\":\"Academia Fitness\",\"imprimir\":true}"}
+{"user_content":"pix de 500 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":500,\"nome_estabelecimento\":\"Clínica Odonto\",\"imprimir\":true}"}
+{"user_content":"pagar 600 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":600,\"nome_estabelecimento\":\"Clínica Odonto\",\"imprimir\":true}"}
+{"user_content":"pix no valor de 700","tool_name":"pagamento","tool_arguments":"{\"valor\":700,\"nome_estabelecimento\":\"Curso Online\",\"imprimir\":true}"}
+{"user_content":"quero pagar 800 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":800,\"nome_estabelecimento\":\"Curso Online\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 900","tool_name":"pagamento","tool_arguments":"{\"valor\":900,\"nome_estabelecimento\":\"Faculdade Particular\",\"imprimir\":true}"}
+{"user_content":"pix de 1000 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":1000,\"nome_estabelecimento\":\"Faculdade Particular\",\"imprimir\":true}"}
+{"user_content":"pix de 10 reais sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":10,\"nome_estabelecimento\":\"Loja Central\",\"imprimir\":false}"}
+{"user_content":"pagar 15 reais no pix sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":15,\"nome_estabelecimento\":\"Mercado Popular\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 20 reais sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":20,\"nome_estabelecimento\":\"Padaria Boa Massa\",\"imprimir\":false}"}
+{"user_content":"pix de 25 reais não precisa imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":25,\"nome_estabelecimento\":\"Lanchonete da Esquina\",\"imprimir\":false}"}
+{"user_content":"pagar 30 reais no pix sem recibo","tool_name":"pagamento","tool_arguments":"{\"valor\":30,\"nome_estabelecimento\":\"Restaurante Caseiro\",\"imprimir\":false}"}
+{"user_content":"pix de 35 reais sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":35,\"nome_estabelecimento\":\"Café Central\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 40 sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":40,\"nome_estabelecimento\":\"Farmácia Vida\",\"imprimir\":false}"}
+{"user_content":"pagar 45 reais no pix sem recibo","tool_name":"pagamento","tool_arguments":"{\"valor\":45,\"nome_estabelecimento\":\"Papelaria Escolar\",\"imprimir\":false}"}
+{"user_content":"pix de 50 reais não imprime comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":50,\"nome_estabelecimento\":\"Supermercado Bom Preço\",\"imprimir\":false}"}
+{"user_content":"pagar 55 reais no pix sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":55,\"nome_estabelecimento\":\"Açougue Central\",\"imprimir\":false}"}
+{"user_content":"pix de 60 reais não precisa imprimir nada","tool_name":"pagamento","tool_arguments":"{\"valor\":60,\"nome_estabelecimento\":\"Loja de Roupas\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 65 sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":65,\"nome_estabelecimento\":\"Pet Shop Amigo\",\"imprimir\":false}"}
+{"user_content":"pagar 70 reais no pix sem recibo","tool_name":"pagamento","tool_arguments":"{\"valor\":70,\"nome_estabelecimento\":\"Clínica Popular\",\"imprimir\":false}"}
+{"user_content":"pix de 75 reais não imprime","tool_name":"pagamento","tool_arguments":"{\"valor\":75,\"nome_estabelecimento\":\"Eletrônicos Tech\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 80 sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":80,\"nome_estabelecimento\":\"Hotel Central\",\"imprimir\":false}"}
+{"user_content":"pagar 90 reais via pix sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":90,\"nome_estabelecimento\":\"Academia Fitness\",\"imprimir\":false}"}
+{"user_content":"pix de 100 reais sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":100,\"nome_estabelecimento\":\"Clínica Odonto\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 120 sem recibo","tool_name":"pagamento","tool_arguments":"{\"valor\":120,\"nome_estabelecimento\":\"Curso Online\",\"imprimir\":false}"}
+{"user_content":"pagar 150 reais no pix sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":150,\"nome_estabelecimento\":\"Faculdade Particular\",\"imprimir\":false}"}
+{"user_content":"pix de 200 reais não imprime comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":200,\"nome_estabelecimento\":\"Concessionária Auto\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 0,50","tool_name":"pagamento","tool_arguments":"{\"valor\":0.5,\"nome_estabelecimento\":\"Quiosque Central\",\"imprimir\":true}"}
+{"user_content":"pix de 2 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":2,\"nome_estabelecimento\":\"Banca de Jornal\",\"imprimir\":true}"}
+{"user_content":"pagar 2,50 no pix sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":2.5,\"nome_estabelecimento\":\"Padaria Boa Massa\",\"imprimir\":false}"}
+{"user_content":"quero pagar cinquenta centavos no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":0.5,\"nome_estabelecimento\":\"Café Central\",\"imprimir\":true}"}
+{"user_content":"faz um pix de vinte e três reais","tool_name":"pagamento","tool_arguments":"{\"valor\":23,\"nome_estabelecimento\":\"Mercado Popular\",\"imprimir\":true}"}
+{"user_content":"pagar R$1.000,00 via pix","tool_name":"pagamento","tool_arguments":"{\"valor\":1000.0,\"nome_estabelecimento\":\"Loja de Móveis\",\"imprimir\":true}"}
+{"user_content":"pix de 9999","tool_name":"pagamento","tool_arguments":"{\"valor\":9999,\"nome_estabelecimento\":\"Hotel Lux\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 14,40 e imprime","tool_name":"pagamento","tool_arguments":"{\"valor\":14.4,\"nome_estabelecimento\":\"Farmácia Vida\",\"imprimir\":true}"}
+{"user_content":"dá um pix de 6,75 sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":6.75,\"nome_estabelecimento\":\"Padaria Bom Pão\",\"imprimir\":false}"}
+{"user_content":"pix de 0,01","tool_name":"pagamento","tool_arguments":"{\"valor\":0.01,\"nome_estabelecimento\":\"Loja Central\",\"imprimir\":true}"}
+{"user_content":"pague 3,1415 no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":3.1415,\"nome_estabelecimento\":\"Café Central\",\"imprimir\":true}"}
+{"user_content":"faz pix 250000","tool_name":"pagamento","tool_arguments":"{\"valor\":250000,\"nome_estabelecimento\":\"Concessionária Auto\",\"imprimir\":false}"}
+{"user_content":"pix pro cliente 45 reais","tool_name":"pagamento","tool_arguments":"{\"valor\":45,\"nome_estabelecimento\":\"Restaurante Caseiro\",\"imprimir\":true}"}
+{"user_content":"quero pagar R$55,55 no pix e imprime pra loja","tool_name":"pagamento","tool_arguments":"{\"valor\":55.55,\"nome_estabelecimento\":\"Loja de Roupas\",\"imprimir\":true}"}
+{"user_content":"pix 100000,99 sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":100000.99,\"nome_estabelecimento\":\"Hotel Lux\",\"imprimir\":false}"}
+{"user_content":"cobrar 17,20 no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":17.2,\"nome_estabelecimento\":\"Mercado Verde\",\"imprimir\":true}"}
+{"user_content":"faz pix de 5000,5","tool_name":"pagamento","tool_arguments":"{\"valor\":5000.5,\"nome_estabelecimento\":\"Loja de Móveis\",\"imprimir\":true}"}
+{"user_content":"pix 7 reais sem recibo","tool_name":"pagamento","tool_arguments":"{\"valor\":7,\"nome_estabelecimento\":\"Pet Shop Amigo\",\"imprimir\":false}"}
+{"user_content":"pagar 9,9 no pix e gerar comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":9.9,\"nome_estabelecimento\":\"Papelaria Escolar\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 33 reais com recibo","tool_name":"pagamento","tool_arguments":"{\"valor\":33,\"nome_estabelecimento\":\"Supermercado Bom Preço\",\"imprimir\":true}"}
+{"user_content":"faz pix de 11 reais pra loja","tool_name":"pagamento","tool_arguments":"{\"valor\":11,\"nome_estabelecimento\":\"Loja Central\",\"imprimir\":true}"}
+{"user_content":"pagar R$0,75 no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":0.75,\"nome_estabelecimento\":\"Café Central\",\"imprimir\":true}"}
+{"user_content":"pix 6,50 sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":6.5,\"nome_estabelecimento\":\"Banca de Jornal\",\"imprimir\":false}"}
+{"user_content":"faz um pix de vinte reais","tool_name":"pagamento","tool_arguments":"{\"valor\":20,\"nome_estabelecimento\":\"Lanchonete da Esquina\",\"imprimir\":true}"}
+{"user_content":"pagar 47,80 no pix e não imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":47.8,\"nome_estabelecimento\":\"Mercado Popular\",\"imprimir\":false}"}
+{"user_content":"pix pra conta 88","tool_name":"pagamento","tool_arguments":"{\"valor\":88,\"nome_estabelecimento\":\"Loja de Roupas\",\"imprimir\":true}"}
+{"user_content":"dá um pix de 14,99","tool_name":"pagamento","tool_arguments":"{\"valor\":14.99,\"nome_estabelecimento\":\"Padaria Boa Massa\",\"imprimir\":true}"}
+{"user_content":"genera pix 123,00 e imprime pra loja","tool_name":"pagamento","tool_arguments":"{\"valor\":123.0,\"nome_estabelecimento\":\"Loja de Móveis\",\"imprimir\":true}"}
+{"user_content":"pix 0,10","tool_name":"pagamento","tool_arguments":"{\"valor\":0.1,\"nome_estabelecimento\":\"Quiosque Central\",\"imprimir\":false}"}
+{"user_content":"pagar 2000 no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":2000,\"nome_estabelecimento\":\"Concessionária Auto\",\"imprimir\":true}"}
+{"user_content":"faz pix de 3333 e imprime","tool_name":"pagamento","tool_arguments":"{\"valor\":3333,\"nome_estabelecimento\":\"Hotel Lux\",\"imprimir\":true}"}
+{"user_content":"pix de 99,99 sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":99.99,\"nome_estabelecimento\":\"Cinema Popular\",\"imprimir\":false}"}
+{"user_content":"quero transferir 15 no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":15,\"nome_estabelecimento\":\"Mercado Verde\",\"imprimir\":true}"}
+{"user_content":"pix R$5,55 pra cliente","tool_name":"pagamento","tool_arguments":"{\"valor\":5.55,\"nome_estabelecimento\":\"Restaurante Caseiro\",\"imprimir\":true}"}
+{"user_content":"pagar 600,60 no pix sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":600.6,\"nome_estabelecimento\":\"Academia Fitness\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 250,25","tool_name":"pagamento","tool_arguments":"{\"valor\":250.25,\"nome_estabelecimento\":\"Hotel Central\",\"imprimir\":true}"}
+{"user_content":"pix 27,7","tool_name":"pagamento","tool_arguments":"{\"valor\":27.7,\"nome_estabelecimento\":\"Farmácia Vida\",\"imprimir\":true}"}
+{"user_content":"envia pix 44,44 sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":44.44,\"nome_estabelecimento\":\"Supermercado Bom Preço\",\"imprimir\":false}"}
+{"user_content":"faz um pix de 18 e imprime","tool_name":"pagamento","tool_arguments":"{\"valor\":18,\"nome_estabelecimento\":\"Mercado Popular\",\"imprimir\":true}"}
+{"user_content":"pix 2,22","tool_name":"pagamento","tool_arguments":"{\"valor\":2.22,\"nome_estabelecimento\":\"Padaria Bom Pão\",\"imprimir\":true}"}
+{"user_content":"quero pagar 88.88 no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":88.88,\"nome_estabelecimento\":\"Eletrônicos Tech\",\"imprimir\":true}"}
+{"user_content":"pix 100 sem recibo","tool_name":"pagamento","tool_arguments":"{\"valor\":100,\"nome_estabelecimento\":\"Restaurante Grill\",\"imprimir\":false}"}
+{"user_content":"faz pix de 13,37 e imprime","tool_name":"pagamento","tool_arguments":"{\"valor\":13.37,\"nome_estabelecimento\":\"Café Central\",\"imprimir\":true}"}
+{"user_content":"pagar 0,33 no pix","tool_name":"pagamento","tool_arguments":"{\"valor\":0.33,\"nome_estabelecimento\":\"Banca de Jornal\",\"imprimir\":false}"}
+{"user_content":"pix 999,99 imprime","tool_name":"pagamento","tool_arguments":"{\"valor\":999.99,\"nome_estabelecimento\":\"Hotel Lux\",\"imprimir\":true}"}
+{"user_content":"faz um pix de 77","tool_name":"pagamento","tool_arguments":"{\"valor\":77,\"nome_estabelecimento\":\"Mercado Verde\",\"imprimir\":true}"}
+{"user_content":"pagar R$14,50 no pix sem imprimir","tool_name":"pagamento","tool_arguments":"{\"valor\":14.5,\"nome_estabelecimento\":\"Farmácia Vida\",\"imprimir\":false}"}
+{"user_content":"pix 6,0","tool_name":"pagamento","tool_arguments":"{\"valor\":6.0,\"nome_estabelecimento\":\"Quiosque Central\",\"imprimir\":true}"}
+{"user_content":"faz pix 25000,00 sem comprovante","tool_name":"pagamento","tool_arguments":"{\"valor\":25000,\"nome_estabelecimento\":\"Concessionária Auto\",\"imprimir\":false}"}
+{"user_content":"pix 1234,56 e imprime pra cliente","tool_name":"pagamento","tool_arguments":"{\"valor\":1234.56,\"nome_estabelecimento\":\"Loja Central\",\"imprimir\":true}"}
